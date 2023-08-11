@@ -1,16 +1,16 @@
-### Hi there 👋
+# I am Bruce Lee 👋
 
-<!--
-**000xiaoming/000xiaoming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫I’m currently learning on Lanzhou University as an undergraduate
 
-Here are some ideas to get you started:
+🌱Currently learning：Assembly Language/Linux/Operating system
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌻Major：Computer Science and Technology
+
+💕Hobby：Running，Building，Soccer
+
+📫 How to reach me: lhc.BruceLee@Gmail.com
+
+👨‍🎨Personal Blog
+
+Go to : https://000xiaoming.github.io
 -->
