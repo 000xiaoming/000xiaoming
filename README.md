@@ -20,10 +20,15 @@
 |C++|C++ primer|February 2023|......|✅|
 |C++|C++ primer plus|2021|......|✅|
 | Data structure     | 数据结构，算法与应用-C++语言描述 | March 2023 | June 2023   | ✅ |
+|C++|C++并发编程实战|May 2023|June 2023| ✅|
 | Assemble | 汇编语言（王爽）    | June 2023 | July 2023  | ✅  |
 | Assemble     | x86汇编语言从实模式到保护模式 | October 2023 | September 2023 | ⬜️🕝  |
+|CS-Base|趣话计算机底层技术|June 2023|......|⬜️🕝 |
+|CS-Base|计算机底层的秘密|June 2023|......|⬜️🕝 |
 | OS | 操作系统真象还原   | October 2023   | ...... | ⬜️📅 |
 | Linux     | 鸟哥的Linux私房菜 | October 2023 |......| ⬜️📅 |
+|Compilers|编译原理|......|......| ⬜️📅|
+|
 
 
 🏫I’m currently learning on Lanzhou University as an undergraduate
