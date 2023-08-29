@@ -1,4 +1,4 @@
-# I am Bruce Lee 👋
+# Hi,there.  I am Bruce Lee 👋
 
 🏫I’m currently learning on Lanzhou University as an undergraduate
 
