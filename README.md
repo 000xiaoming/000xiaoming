@@ -28,7 +28,6 @@
 | OS | 操作系统真象还原   | October 2023   | ...... | ⬜️📅 |
 | Linux     | 鸟哥的Linux私房菜 | October 2023 |......| ⬜️📅 |
 |Compilers|编译原理|......|......| ⬜️📅|
-|
 
 
 🏫I’m currently learning on Lanzhou University as an undergraduate
