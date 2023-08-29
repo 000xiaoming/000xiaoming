@@ -6,7 +6,7 @@
 
 🌻Major：Computer Science and Technology
 
-💕Hobby：Running，Building，Soccer
+💕Hobby：Fitness, Running, Football, Drinking tea, Cycling
 
 📫 How to reach me: lhc.BruceLee@Gmail.com
 
