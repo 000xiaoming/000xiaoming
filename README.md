@@ -17,17 +17,22 @@
 | C | C primer plus        | September 2022   | February 2023 | ✅  |
 | Data structure     | 大话数据结构         | October 2022     | February 2023     | ✅ |
 | C++ | 面向对象程序设计-C++（翁恺） | January 2023  | February 2023   | ✅ |
+|C|C陷阱与缺陷|January 2023|February 2023|✅|
 |C++|C++ primer|February 2023|......|✅|
 |C++|C++ primer plus|2021|......|✅|
 | Data structure     | 数据结构，算法与应用-C++语言描述 | March 2023 | June 2023   | ✅ |
+|HTTP|图解HTTP|March 2023|March 2023|✅|
+|STL|STL标准库与泛型编程（侯捷）|April 2023|June 2023|✅|
+|C++|C++内存模型（侯捷）|April 2023|June 2023|✅|
 |C++|C++并发编程实战|May 2023|June 2023| ✅|
-| Assemble | 汇编语言（王爽）    | June 2023 | July 2023  | ✅  |
+| Assemble | 汇编语言（王爽）    | July 2023 | July 2023  | ✅  |
 | Assemble     | x86汇编语言从实模式到保护模式 | October 2023 | September 2023 | ⬜️🕝  |
 |CS-Base|趣话计算机底层技术|June 2023|......|⬜️🕝 |
 |CS-Base|计算机底层的秘密|June 2023|......|⬜️🕝 |
 | OS | 操作系统真象还原   | October 2023   | ...... | ⬜️📅 |
 | Linux     | 鸟哥的Linux私房菜 | October 2023 |......| ⬜️📅 |
 |Compilers|编译原理|......|......| ⬜️📅|
+|C++|Effective C++|......|......| ⬜️📅|
 
 
 🏫I’m currently learning on Lanzhou University as an undergraduate
