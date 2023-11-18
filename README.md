@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/%E4%BC%9F%E5%A4%A7-verilogHDL-blue"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+<img src="https://img.shields.io/badge/%E6%AD%BB%E4%BA%86%E9%83%BD%E8%A6%81%E7%88%B1-Linux-red"/>
 </p>
 
 | Type   | Topic                                | Start          | End           | Done  |
