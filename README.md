@@ -47,6 +47,7 @@
 |Hardware|数字逻辑电路与Verilog设计(黑皮书)|October 2023|January 2024|✅|
 |ISA|The RISC-V Reader|December 2023| March 2024|✅|
 | Hardware|计算机组成与设计:硬件/软件接口|January 2024|March 2024|✅|
+|Makefile/Linux|Linux C编程完全解密|March 2024|......|⬜️🕝|
 |Verilog HDL|......|october 2023|......|⬜️🕝|
 |RISC-V|......|......|......|⬜️🕝|
 
