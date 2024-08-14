@@ -62,8 +62,4 @@
 💕Hobby：Fitness, Running, Football, Drinking tea, Cycling
 
 📫 How to reach me: lhc.BruceLee@Gmail.com
-
-👨‍🎨Personal Blog
-
-Go to : https://000xiaoming.github.io
 -->
