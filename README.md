@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td valign="top">
-      I am Bruce Lee, with a background in Computer Science and Technology at Lanzhou University. I work on MLIR-based AI compilers and NPU backends, and enjoy exploring the path from model semantics to hardware execution.<br><br>
+      I am Bruce Lee, a Computer Science and Technology major at Lanzhou University. Recently, I have been working on MLIR-based AI compilers and NPU backends, with a focus on the path from model semantics to hardware execution.<br><br>
 My interests span graph optimization, quantization, tensor layouts, code generation, execution dependencies, and memory management.
     </td>
     <td width="220" align="center">
@@ -50,7 +50,7 @@ My interests span graph optimization, quantization, tensor layouts, code generat
 <details>
 <summary>📚 Earlier reading & coursework</summary>
 
-The following table preserves my earlier learning log. Dates and progress markers are historical and do not describe my current status.
+Below is my early learning log. Now, in the Astra era, I look back with a mix of emotions at the person I was a few years ago, working through hefty textbooks and writing all kinds of practice code by hand.
 
 | Type   | Topic                                | Start          | End           | Done  |
 |--------|--------------------------------------|----------------|---------------|-------|
