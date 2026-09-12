@@ -1,29 +1,56 @@
-# Hi,there.  I am Bruce Lee 👋
+# Hi, there. I am Bruce Lee 👋
 
-<table style="border-collapse: collapse; border: none;">
-     <tr>
-        <td>
-        I am Bruce Lee,a student of Lanzhou University. I like efficient programming skills.So i often watch some well-known bloggers share their programming skills.I actively read some good books or video, such as the ones below
-        </td>
-        <td>
-        <img src="analyst.gif" alt="Analyst">
-        </td>
-    </tr>
+[English](./README.md) | [简体中文](./README.zh-CN.md)
+
+<table>
+  <tr>
+    <td valign="top">
+      I am Bruce Lee, with a background in Computer Science and Technology at Lanzhou University. I work on MLIR-based AI compilers and NPU backends, and enjoy exploring the path from model semantics to hardware execution.<br><br>
+My interests span graph optimization, quantization, tensor layouts, code generation, execution dependencies, and memory management.
+    </td>
+    <td width="220" align="center">
+      <img src="analyst.gif" alt="Analyst" width="200">
+    </td>
+  </tr>
 </table>
+
 <p align="center">
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/%E5%96%9C%E6%AC%A2%E5%90%97-%E6%B1%87%E7%BC%96-red"/>
-<img src="https://img.shields.io/badge/%E5%8F%AA%E4%BC%9A%E4%B8%80%E7%82%B9-c-blue"/>
-<img src="https://img.shields.io/badge/%E6%87%82%E4%B8%8D%E4%BA%86-c++-blue"/>
-<img src="https://img.shields.io/badge/%E6%B5%85%E6%B5%85%E4%B8%80%E8%AF%95-mysql-black"/>
-<img src="https://img.shields.io/badge/%E6%88%91%E7%88%B1-docker-red"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/%E4%BC%9F%E5%A4%A7-verilogHDL-blue"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/%E6%AD%BB%E4%BA%86%E9%83%BD%E8%A6%81%E7%88%B1-Linux-red"/>
+<img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&amp;logo=c&amp;logoColor=white">
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white">
+<img alt="MLIR" src="https://img.shields.io/badge/MLIR-5755D9?style=flat-square">
+<img alt="LLVM" src="https://img.shields.io/badge/LLVM-262D3A?style=flat-square&amp;logo=llvm&amp;logoColor=white">
+<img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&amp;logo=onnx&amp;logoColor=white">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-222222?style=flat-square&amp;logo=linux&amp;logoColor=white">
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white">
+<img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&amp;logo=cmake&amp;logoColor=white">
+<img alt="RISC-V" src="https://img.shields.io/badge/RISC--V-283272?style=flat-square&amp;logo=riscv&amp;logoColor=white">
+<img alt="Verilog HDL" src="https://img.shields.io/badge/Verilog_HDL-3050A0?style=flat-square">
 </p>
+
+## 🛠️ Technical Focus
+
+| Area | Technologies & Topics |
+| --- | --- |
+| Compiler infrastructure | MLIR / LLVM, IR graph rewrites, canonicalization, dialect lowering, target code generation |
+| AI model compilation | ONNX, operator fusion, reductions, convolution, matrix operations, normalization, recurrent networks |
+| Quantized inference | Quantization parameter propagation, requantization, numerical semantics across graph transformations |
+| Tensors & memory | Shape and layout transformations, broadcasting, strides, alignment, address allocation, liveness and safe reuse |
+| NPU backends | Instruction generation, cross-engine dependencies, synchronization, backend resources, C++ RAII |
+| Toolchain engineering | C++ / Python, Linux, Git, CMake, Docker, regression testing, model packaging, build and release workflows |
+
+## 🌱 Learning & Interests
+
+- **Computer systems:** C / C++, data structures and algorithms, concurrency, assembly, operating systems, and Linux / Unix systems programming.
+- **Architecture & hardware:** computer organization, computer architecture, RISC-V, digital logic, and Verilog HDL.
+- **Language models:** Transformer, BERT / GPT / LLaMA architectures, PyTorch and Transformers, pretraining and SFT, LoRA / QLoRA, evaluation, RAG, and agent workflows.
+- **Robotics:** C++ and ROS 2, multi-robot coordination, task scheduling, and path planning — [ROS 2 Fleet Coordinator](https://github.com/000xiaoming/ros2-fleet-coordinator).
+
+<details>
+<summary>📚 Earlier reading & coursework</summary>
+
+The following table preserves my earlier learning log. Dates and progress markers are historical and do not describe my current status.
 
 | Type   | Topic                                | Start          | End           | Done  |
 |--------|--------------------------------------|----------------|---------------|-------|
@@ -53,13 +80,10 @@
 |Verilog HDL|......|october 2023|......|⬜️🕝|
 |RISC-V|......|......|......|⬜️🕝|
 
-🏫I’m currently learning on Lanzhou University as an undergraduate
+</details>
 
-🌱Currently learning：Assembly Language/Linux/Operating system
+## ☕ Beyond Code
 
-🌻Major：Computer Science and Technology
+Fitness, running, football, tea, and cycling.
 
-💕Hobby：Fitness, Running, Football, Drinking tea, Cycling
-
-📫 How to reach me: lhc.BruceLee@Gmail.com
--->
+📫 [lhc.BruceLee@gmail.com](mailto:lhc.BruceLee@gmail.com) · 📝 [Technical notes](https://000xiaoming.github.io) · 🐙 [GitHub](https://github.com/000xiaoming)
